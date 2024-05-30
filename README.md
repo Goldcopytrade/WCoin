@@ -1,4 +1,4 @@
-# Ultimate For Building In Web3 P2E Platform
+# Ultimate For Building In Web3 Play2earn Platform
 
 <div align="center"><img src="https://goldinvests.io/wp-content/uploads/2024/02/logo414x414.fw_.png)" /><br />
 </div>
