@@ -10,32 +10,18 @@ WCoin is a Web3 gaming by leveraging blockchain technology and cryptocurrency. I
 
 
 Earning platform
-Gold invest web3 Staking platform. Passive income generation technology running through the binance blockchain. Start earning with us in just 3 easy steps.
-
-1. Buy token on pancakeswap. Buy BNB coin transfer to your wallet. Connect wallet and enter BNB amout and comfirm your wallet
-
-2. Select package & Stake. Go to stake platform. connect wallet first, select plan your interest, Approve & comfirm wallet a stake.
-
-3. Enjoy regular profits. You rewards are generated minute until the due stake Now it’s time to enjoy your life and finally let your money work for you every day.
-
-# Gold Debit Card
-Reward from Gold invest Staking can be chosen withdraw via a Visa Debit card that can be used at ATMs around the world or spent via cards
-supported by the Visa company.
-
-– Low transaction fee. Easy withdrawal process through our platform. high sucure system. and can be used immediately.
-
-– Visa partner. Earnings are automatically transferred to the wallet. Members can convert and withdraw money from the metamask wallet to crypto partner Visa cards such as Transak.
+WCoin leading developer of innovative Web3 games, crafting high-action, thrilling experiences that prioritize both engaging gameplay and rewarding tokenomics. We already have several P2E games in development. As soon as the racing track is finalized you will be able to race your vehicle NFTs and earn prizes. A shooting game and arcade-action game will soon follow. Various other earning opportunities will be present in Crypto, such as completing daily tasks and achievements or renting out your NFT property.
 
 # Link us
 
-🌐 Smart Contract : https://bscscan.com/address/0x977d3c595f9c9b5a3a5b05845499dc05ea713026
+🌐 Smart Contract : https://bscscan.com/token/0x95f220a137e8daDDbcEF4E21FF4574F2278cf26a
 
-📊 But token : https://pancakeswap.finance/swap?outputCurrency=0x977d3c595f9c9b5A3A5b05845499Dc05EA713026
+🟩 Twitter : https://twitter.com/
 
-🔰 Staking : https://goldinvests.io/staking
+🚮 Facebook : https://www.facebook.com/
 
-🟩 Twitter : https://twitter.com/official46512
+🟢 Telegram : https://t.me/
 
-🚮 Facebook : https://www.facebook.com/goldinvestofficial
+🌐 Website : https://wwww.wcoinc.com
 
-🟢 Telegram : https://t.me/Goldinvestofficial
+📄 docs.wcoinc.com
