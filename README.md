@@ -1,6 +1,6 @@
 # Ultimate For Building In Web3 Play2earn Platform
 
-<div align="center"><img src="https://goldinvests.io/wp-content/uploads/2024/02/logo414x414.fw_.png)" /><br />
+<div align="center"><img src="https://wcoinc.com/wp-content/uploads/2024/05/WCoin_Logo-02.fw_.png)" /><br />
 </div>
 <div align="center">
   <h1>
