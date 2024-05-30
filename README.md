@@ -13,7 +13,7 @@ WCoin leading developer of innovative Web3 games, crafting high-action, thrillin
 
 # Link us
 
-🌐 Smart Contract : https://bscscan.com/token/0x95f220a137e8daDDbcEF4E21FF4574F2278cf26a
+💰 Smart Contract : https://bscscan.com/token/0x95f220a137e8daDDbcEF4E21FF4574F2278cf26a
 
 🟩 Twitter : https://twitter.com/
 
