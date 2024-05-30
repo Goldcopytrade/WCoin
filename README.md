@@ -23,4 +23,4 @@ WCoin leading developer of innovative Web3 games, crafting high-action, thrillin
 
 🌐 Website : https://wwww.wcoinc.com
 
-📄 https://docs.wcoinc.com
+📄 Document :  https://docs.wcoinc.com
