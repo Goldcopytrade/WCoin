@@ -8,8 +8,7 @@
 WCoin is a Web3 gaming by leveraging blockchain technology and cryptocurrency. It provides a decentralized gaming platform where players can participate in skill-based competitions, earn rewards, and have true ownership of in-game assets.
 # Earning platform
 
-
-Earning platform
+# Earning platform
 WCoin leading developer of innovative Web3 games, crafting high-action, thrilling experiences that prioritize both engaging gameplay and rewarding tokenomics. We already have several P2E games in development. As soon as the racing track is finalized you will be able to race your vehicle NFTs and earn prizes. A shooting game and arcade-action game will soon follow. Various other earning opportunities will be present in Crypto, such as completing daily tasks and achievements or renting out your NFT property.
 
 # Link us
